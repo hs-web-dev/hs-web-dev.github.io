@@ -47,6 +47,8 @@ main {
     position: relative;
     overflow: hidden;
     width: 100%;
+    max-widht: 1200px;
+    margin:0 auto;
     border-radius: 12px;
     border: 1px solid #222;
     background: radial-gradient(circle at top, #111827, #020308);
