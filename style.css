@@ -58,10 +58,9 @@ main {
     box-shadow: 0 4px 20px rgba(0,0,0,0.08);
 }
 
-.slider {
-    display: flex;
-    width: 50;
-    animation: slide 60s linear infinite;
+.slider { display: flex; 
+width: max-content; 
+animation: slide 70s linear infinite; 
 }
 
 .slider:hover {
